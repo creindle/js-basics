@@ -18,7 +18,7 @@ var person =
  */
 
 var canDrive;
-if (person.age > 16)
+if (person.age >= 16)
 {
   var canDrive = true;
 }
